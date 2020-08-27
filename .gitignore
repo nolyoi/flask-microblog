@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+app/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -137,4 +138,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/s
-app/__pycache__/
